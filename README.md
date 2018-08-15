@@ -12,5 +12,4 @@ Operating Instructions:
 
 File Manifest:
 
-Credits and Acknowldgements: Andrew Mead deserves full credit for this code. I simply successfully carried out 
-his prescribed assignments to reproduce crucial parts of it.
+Credits and Acknowldgements: Andrew Mead deserves full credit for this code. 
